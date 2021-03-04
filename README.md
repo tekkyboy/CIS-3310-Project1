@@ -4,4 +4,4 @@ For the first project and it's deliverable, I made a set of pages where the user
 
 If the user desires, they will be given different outputs that can populate the rest of the HTML page. 
 
-Link the the project here: [Project Link](https://tekkyboy.github.io/CIS-3310-Project1/docs/index.html)
+Link the the project here: [Project Link](https://tekkyboy.github.io/Super-Cool-Page/)
