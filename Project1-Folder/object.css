@@ -1,6 +1,5 @@
 .navbar {
   overflow: hidden;
-  background-color: #333;
   font-family: Courier;
 }
 
@@ -30,7 +29,7 @@
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: blue;
 }
 
 .dropdown-content {
@@ -61,11 +60,23 @@
 
 div {
   border: double;
-  color: red;
+  color: green;
 }
 
 a:hover {
   color: blue;
+}
+
+input[type="text"]
+{
+    background: transparent;
+    border: none;
+}
+
+input {
+  background-color: rgba(0,0,0,0.1);
+  color: white;
+  border: none;
 }
 
 body {
